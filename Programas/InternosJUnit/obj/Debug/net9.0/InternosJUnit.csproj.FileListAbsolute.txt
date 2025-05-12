@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\bin\Debug\net9.0\InternosJUnit.exe
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\bin\Debug\net9.0\InternosJUnit.deps.json
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\bin\Debug\net9.0\InternosJUnit.runtimeconfig.json
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\bin\Debug\net9.0\InternosJUnit.dll
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\bin\Debug\net9.0\InternosJUnit.pdb
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\obj\Debug\net9.0\InternosJUnit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\obj\Debug\net9.0\InternosJUnit.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\obj\Debug\net9.0\InternosJUnit.AssemblyInfo.cs
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\obj\Debug\net9.0\InternosJUnit.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\obj\Debug\net9.0\InternosJUnit.sourcelink.json
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\obj\Debug\net9.0\InternosJUnit.dll
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\obj\Debug\net9.0\refint\InternosJUnit.dll
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\obj\Debug\net9.0\InternosJUnit.pdb
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\obj\Debug\net9.0\InternosJUnit.genruntimeconfig.cache
+C:\Users\User\Downloads\seminario_poo\Programas\InternosJUnit\obj\Debug\net9.0\ref\InternosJUnit.dll
