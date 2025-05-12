@@ -1,0 +1,14 @@
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\bin\Debug\net9.0\CheirosHeuristicas.exe
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\bin\Debug\net9.0\CheirosHeuristicas.deps.json
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\bin\Debug\net9.0\CheirosHeuristicas.runtimeconfig.json
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\bin\Debug\net9.0\CheirosHeuristicas.dll
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\bin\Debug\net9.0\CheirosHeuristicas.pdb
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\obj\Debug\net9.0\CheirosHeuristicas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\obj\Debug\net9.0\CheirosHeuristicas.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\obj\Debug\net9.0\CheirosHeuristicas.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\obj\Debug\net9.0\CheirosHeuristicas.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\obj\Debug\net9.0\CheirosHeuristicas.dll
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\obj\Debug\net9.0\refint\CheirosHeuristicas.dll
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\obj\Debug\net9.0\CheirosHeuristicas.pdb
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\obj\Debug\net9.0\CheirosHeuristicas.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Documentos\CheirosHeuristicas\obj\Debug\net9.0\ref\CheirosHeuristicas.dll
