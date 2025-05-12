@@ -17,7 +17,7 @@ A Concorrência Técnica utilizada para executar tarefas em paralelo​ desenvol
 O objetivo do refinamento sucessivo é transformar código funcional, porém confuso (código sujo), em código limpo, legível e fácil de manter, por meio de melhorias incrementais e contínuas. É um processo de "lapidação" do código, onde pequenas alterações são feitas iterativamente para elevar a qualidade sem comprometer sua funcionalidade.​
 
 - #### Internos do JUnit
-O JUnit é uma framework para criar e executar testes automatizados em Java, que ajuda a garantir que o código funcione corretamente.​ Foi adaptador o código do ComparisonCompactor trazido do linguágem Java para C#.
+O JUnit é uma framework para criar e executar testes automatizados em Java, que ajuda a garantir que o código funcione corretamente.​ Foi adaptador o código do ComparisonCompactor trazido da linguagem Java para C#.
 
 - #### Refatorando o SerialDate
 Demonstrar como realizar uma revisão e refatoração profissional de código legado (no caso, a classe SerialDate), utilizando testes automatizados como suporte para compreensão, validação e melhoria progressiva da base de código.​
