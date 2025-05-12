@@ -1,0 +1,15 @@
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\obj\Debug\net9.0\RefatorandoSerialDate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\obj\Debug\net9.0\RefatorandoSerialDate.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\obj\Debug\net9.0\RefatorandoSerialDate.AssemblyInfo.cs
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\obj\Debug\net9.0\RefatorandoSerialDate.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\obj\Debug\net9.0\RefatorandoSerialDate.sourcelink.json
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\bin\Debug\net9.0\RefatorandoSerialDate.exe
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\bin\Debug\net9.0\RefatorandoSerialDate.deps.json
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\bin\Debug\net9.0\RefatorandoSerialDate.runtimeconfig.json
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\bin\Debug\net9.0\RefatorandoSerialDate.dll
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\bin\Debug\net9.0\RefatorandoSerialDate.pdb
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\obj\Debug\net9.0\RefatorandoSerialDate.dll
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\obj\Debug\net9.0\refint\RefatorandoSerialDate.dll
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\obj\Debug\net9.0\RefatorandoSerialDate.pdb
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\obj\Debug\net9.0\RefatorandoSerialDate.genruntimeconfig.cache
+C:\Users\User\Downloads\seminario_poo\Programas\RefatorandoSerialDate\obj\Debug\net9.0\ref\RefatorandoSerialDate.dll
